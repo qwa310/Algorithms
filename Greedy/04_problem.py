@@ -1,4 +1,5 @@
-#그리디 - 1이 될 때까지
+# 그리디 - 1이 될 때까지
+
 n, k = map(int, input().split())
 count = 0
 

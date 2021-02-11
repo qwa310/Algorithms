@@ -1,4 +1,5 @@
-#그리디 - 숫자 카드 게임
+# 그리디 - 숫자 카드 게임
+
 n, m = map(int, input().split())
 result = 0
 
